@@ -1,4 +1,4 @@
-Roles & Techniques:
+Techniques:
 
 OpenAI/GPT3, Random Forest Classification, SVM, Fast Clustering
 

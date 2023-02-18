@@ -1,9 +1,6 @@
 Roles & Techniques:
 
-Section 1: Mamtha Bele: KMeans clustering
-Section 2: Jude Essene: Agglomerative clustering
-Section 3: Amir Banasadi: Fast clustering
-Section 4: Usama Shahid: OpenAI/GPT3, Random Forest Classification, SVM, Fast Clustering
+OpenAI/GPT3, Random Forest Classification, SVM, Fast Clustering
 
 Libraries Used:
 
@@ -16,10 +13,3 @@ Libraries Used:
 7. Visualisation: matplotlib
 8. Model exports & imports: import pickle
 9. for removing warnings: import warnings
-
-Dataset:
-It is amazon product's reviews dataset.
-https://drive.google.com/drive/folders/1lCXtBDIzX16p6OapdZpoC5Z545DkHeSJ?usp=sharing
-
-Github (Private):
-https://github.com/reachusama/product-review-analysis/

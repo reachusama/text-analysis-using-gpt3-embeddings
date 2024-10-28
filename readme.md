@@ -1,8 +1,10 @@
-Techniques:
+# Analysing Amazon Product Reviews using Dimensions of Valence and Arousal in Python
+
+## Techniques:
 
 OpenAI/GPT3, Random Forest Classification, SVM, Fast Clustering
 
-Libraries Used:
+## Libraries Used:
 
 1. Loading, exploring and manipulating datasets: pandas, numpy, random, google.colab 
 2. Error Handling for API calling and importing API keys from envirnoment: retry, time, os
